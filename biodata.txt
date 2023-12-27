@@ -2,3 +2,4 @@ nama :elfridus radun
 nim 21101187
 matakulia :cloud computing
 jamkuliah 19.50
+jam pulang 22.00
